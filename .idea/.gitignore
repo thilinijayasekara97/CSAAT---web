@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Datasource local storage ignored files
+/../../../../../../../:\Users\acer\Desktop\pythonprojects\firsttest\.idea/dataSources/
+/dataSources.local.xml
+/../../../../../../../:\Users\acer\Desktop\pythonprojects\CSAAT\.idea/dataSources/
+# Editor-based HTTP Client requests
+/httpRequests/
+
